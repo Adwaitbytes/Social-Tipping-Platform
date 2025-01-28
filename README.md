@@ -2,7 +2,9 @@
 
 A decentralized platform that enables content creators to receive tips in ETH from their supporters. Built with Next.js 13, Ethers.js, and smart contracts on Ethereum.
 
-![Social Tipping Platform](/placeholder.svg?height=400&width=800)
+![Social Tipping Platform]
+
+You can see the working application here in this link https://6xyvgbiwlpos4hwm.vercel.app/
 
 ## Features ✨
 
